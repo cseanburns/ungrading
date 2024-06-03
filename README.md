@@ -7,6 +7,11 @@ This paper was submitted as a juried paper
 proposal to the [ALISE](https://alise.org)
 2022 annual conference.
 
+This proposal was not accepted to the conference, but
+I'm continuing this project with others.
+
+Manuscript draft on 2022-03-18: [https://cseanburns.net/WWW/ungrading-2022-03-18.html](https://cseanburns.net/WWW/ungrading-2022-03-18.html)
+
 The ODT file was generated with the Bash function below,
 which uses
 [Pandoc][pandoc],
